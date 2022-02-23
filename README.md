@@ -1,13 +1,16 @@
-# Projeto-1-Plataforma
+### Platafarma Front-end - Projeto 01
 
-			Requisitos:
-.HTML semântico
-. Estilização com css
-. Links internos e ou externos
-. Imagens  
-. Formulário 
-. Paginação ( no mínimo 2 paginas)
+## Site Responsivo
 
-		           Bônus   :
-. Utilização de algum framework 
-(Ex: Bootstrap) 
+Ultilize os wireframes como exemplo para construir seu site exercendo os seguintes requisitos:
+- HTML semântico
+- Estilização com css
+- Links internos e ou externos
+- Imagens
+- Formulário 
+- Paginação ( no mínimo 2 paginas) 
+
+
+ Bônus   :
+- Utilização de algum framework 
+(Ex: Bootstrap)
